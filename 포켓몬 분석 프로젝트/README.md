@@ -46,7 +46,7 @@
   - catch_rate: 잡기 쉬운 포켓몬(1점) ~ 어려운 포켓몬 (5점)
   - against_: 18가지의 포켓몬 타입에 해당하는 데미지 정도 (-5~4점)
   - type_number: type이 1,2개때의 능력치 평균이 약 2배 차이를 보임
-                   type_number = 1 일때 1점 부여, type_number = 2 일때 2점 부여
+                 type_number = 1 일때 1점 부여, type_number = 2 일때 2점 부여
   - abilities_number 
     : total_points와 반비례
       1개 -> 3점 / 2개 -> 2점 / 3개 -> 1점 부여
